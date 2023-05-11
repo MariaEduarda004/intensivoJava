@@ -10,7 +10,6 @@ import com.Duda.dslist.dto.GameMinDTO;
 import com.Duda.dslist.entities.Game;
 import com.Duda.dslist.repositories.GameRepository;
 
-import jakarta.transaction.Transactional;
 
 @Service
 public class GameService {
